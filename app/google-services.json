@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317147347503",
+    "firebase_url": "https://ecgplot.firebaseio.com",
+    "project_id": "ecgplot",
+    "storage_bucket": "ecgplot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317147347503:android:edc60a5b18442956",
+        "android_client_info": {
+          "package_name": "com.ssuet.yousufminhaj.ecg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317147347503-5h1qtl9hvud7b7so3nivt6k7p21fl8ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjl6zVGaf_g9bRThCtCDRCHBGTTj4zue4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
